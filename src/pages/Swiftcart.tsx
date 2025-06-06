@@ -4,19 +4,21 @@ const Swiftcart = () => {
   return (
     <ProjectPage
       title="Swiftcart"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a."
-      imageUrl="/images/placeholder.jpg"
+      description="SwiftCart is a full-featured e-commerce platform I developed using modern React technologies. The project demonstrates my ability to create complex, interactive web applications with a focus on user experience and modern development practices."
+      imageUrl="/images/SwiftCart.png"
       imageCaption="Swiftcart - E-commerce Solution"
       liveLink="https://frameworks-e-com.netlify.app/"
       githubLink="https://github.com/omro0107/frameworks-ca-e-com/blob/main/README.md"
       content={`
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor blandit quam, et molestie ipsum tempus eu. Ut efficitur lorem at interdum cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vehicula tortor eget nunc.
+        SwiftCart is a modern e-commerce application built using the latest features of React 19. Designed to deliver a fast and intuitive shopping experience, this project reflects my ability to design and develop a production-ready web store with a focus on responsiveness, performance, and clean architecture.
 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
+        The platform includes a dynamic product catalog sourced from the Noroff API, with search functionality and advanced filtering to help users discover items quickly. I implemented a persistent shopping cart using Zustand for efficient state management, ensuring real-time updates and a smooth user interface. The checkout process features a user-friendly flow with form validation, order confirmation, and a secure design.
 
-        Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eleifend laoreet congue.
+        I used React Hook Form along with Yup to build responsive and accessible forms, ensuring robust error handling and a seamless user experience. Styled Components were chosen for styling to enable modular, maintainable, and scoped CSS across the application.
 
-        Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.
+        One of the main architectural goals was to keep the project modular and scalable. The codebase is organized with clear folder structures, reusable UI components, and separate layers for state, API handling, and business logic. Performance optimizations such as lazy-loaded routes and optimized image loading were applied to ensure fast load times and smooth navigation.
+
+        SwiftCart was also a great learning experience in managing global state efficiently, integrating APIs securely, and building a consistent design system. Future plans include adding user authentication, integrating new payment methods, and expanding the product filtering system to support larger catalogs and richer user experiences.
       `}
     />
   );

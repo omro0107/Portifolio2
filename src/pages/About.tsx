@@ -5,6 +5,15 @@ const About = () => {
         About
       </h1>
       
+      {/* Profile Image */}
+      <div className="flex justify-center mb-12">
+        <img 
+          src="/images/me.jpg" 
+          alt="Oda Rosenkilde"
+          className="w-64 h-64 object-cover rounded-full shadow-lg"
+        />
+      </div>
+      
       <div className="max-w-3xl mx-auto space-y-8 text-gray-300 font-poppins">
         <h2 className="text-3xl font-cormorant text-white mb-8">
           I'm Oda. A designer, team player and problem solver.

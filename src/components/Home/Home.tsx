@@ -4,19 +4,19 @@ const Home = () => {
   const projects = [
     {
       title: "Vaultbid",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+      description: "VaultBid brings the auction house online, letting users list items, place bids, and track auctions in real time. It’s built with modern JavaScript and designed to work great on any device.",
       imageUrl: "/images/VaultBid.png",
       link: "/projects/vaultbid"
     },
     {
       title: "Swiftcart",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+      description: "SwiftCart is a sleek online store that lets users browse products, manage their cart, and check out smoothly. It’s fast, responsive, and built using the latest tools like React 19 and Zustand.",
       imageUrl: "/images/SwiftCart.png",
       link: "/projects/swiftcart"
     },
     {
       title: "Holidaze",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+      description: "Holidaze is a venue booking app where users can explore, book, and manage places to stay with ease. It’s built with React and packed with features like calendars, user profiles, and responsive design.",
       imageUrl: "/images/Holidaze.png",
       link: "/projects/holidaze"
     }

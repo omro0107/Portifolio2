@@ -20,7 +20,7 @@ const ProjectCard = ({ title, description, imageUrl, link }: ProjectCardProps) =
       />
       <div className="p-6">
         <h2 className="text-xl text-white font-cormorant mb-2">{title}</h2>
-        <p className="text-gray-400 font-poppins text-sm leading-normal h-12">
+        <p className="text-gray-400 font-poppins text-sm leading-normal">
           {description}
         </p>
       </div>

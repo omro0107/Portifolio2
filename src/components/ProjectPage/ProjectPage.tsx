@@ -57,7 +57,7 @@ const ProjectPage = ({
         <img 
           src={imageUrl} 
           alt={title}
-          className="w-full h-96 object-cover rounded-lg mb-4"
+          className="w-full aspect-[2/1] object-cover rounded-lg mb-4"
         />
         <p className="text-gray-400 font-poppins text-sm text-center italic">
           {imageCaption}
@@ -72,7 +72,7 @@ const ProjectPage = ({
           rel="noopener noreferrer"
           className="bg-white text-black px-6 py-3 rounded-lg font-poppins font-medium hover:bg-gray-200 transition-colors text-center"
         >
-          View Live Site →
+          View Live Site
         </a>
         <a
           href={githubLink}
@@ -80,7 +80,7 @@ const ProjectPage = ({
           rel="noopener noreferrer"
           className="border border-white text-white px-6 py-3 rounded-lg font-poppins font-medium hover:bg-white hover:text-black transition-colors text-center"
         >
-          View on GitHub →
+          View on GitHub
         </a>
       </div>
 
