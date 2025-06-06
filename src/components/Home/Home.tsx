@@ -5,19 +5,19 @@ const Home = () => {
     {
       title: "Vaultbid",
       description: "VaultBid brings the auction house online, letting users list items, place bids, and track auctions in real time.",
-      imageUrl: "/images/VaultBid.png",
+      imageUrl: "/images/VaultBid.jpg",
       link: "/projects/vaultbid"
     },
     {
       title: "Swiftcart",
       description: "SwiftCart is a sleek online store that lets users browse products, manage their cart, and check out smoothly.",
-      imageUrl: "/images/SwiftCart.png",
+      imageUrl: "/images/SwiftCart.jpg",
       link: "/projects/swiftcart"
     },
     {
       title: "Holidaze",
       description: "Holidaze is a venue booking app where users can explore, book, and manage places to stay with ease.",
-      imageUrl: "/images/Holidaze.png",
+      imageUrl: "/images/Holidaze.jpg",
       link: "/projects/holidaze"
     }
   ];

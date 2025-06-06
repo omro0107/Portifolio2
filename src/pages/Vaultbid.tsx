@@ -5,7 +5,7 @@ const Vaultbid = () => {
     <ProjectPage
       title="Vaultbid"
       description="VaultBid is a modern web application that brings the traditional auction experience online. Developed as a semester project, it showcases my skills in modular JavaScript, secure authentication, and responsive design through a fully functional auction system."
-      imageUrl="/images/VaultBid.png"
+      imageUrl="/images/VaultBid.jpg"
       imageCaption="Vaultbid - A Modern Auction Platform"
       liveLink="https://vaultbid.netlify.app"
       githubLink="https://github.com/omro0107/VaultBid/blob/main/README.md"

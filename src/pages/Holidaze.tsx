@@ -5,7 +5,7 @@ const Holidaze = () => {
     <ProjectPage
       title="Holidaze"
       description="Holidaze is a comprehensive venue booking platform developed as part of the Noroff second year Project Exam. This full-stack application enables users to discover, book, and manage accommodation venues through an intuitive and responsive interface."
-      imageUrl="/images/Holidaze.png"
+      imageUrl="/images/Holidaze.jpg"
       imageCaption="Holidaze - Holiday Booking Platform"
       liveLink="https://holidazetravel.netlify.app/"
       githubLink="https://github.com/omro0107/Holidaze/blob/main/README.md"

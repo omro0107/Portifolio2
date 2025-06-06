@@ -5,7 +5,7 @@ const Swiftcart = () => {
     <ProjectPage
       title="Swiftcart"
       description="SwiftCart is a full-featured e-commerce platform I developed using modern React technologies. The project demonstrates my ability to create complex, interactive web applications with a focus on user experience and modern development practices."
-      imageUrl="/images/SwiftCart.png"
+      imageUrl="/images/SwiftCart.jpg"
       imageCaption="Swiftcart - E-commerce Solution"
       liveLink="https://frameworks-e-com.netlify.app/"
       githubLink="https://github.com/omro0107/frameworks-ca-e-com/blob/main/README.md"
